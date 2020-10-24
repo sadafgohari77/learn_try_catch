@@ -1,0 +1,36 @@
+.button-import-file {
+  background-color: darkorange;
+}
+
+.file-content {
+  width: fit-content;
+  background-color: lightgrey;
+  margin : 30px 0px 10px 10px ;
+  padding: 0px 10px ;
+
+}
+
+.result-divison {
+  width: fit-content;
+  background-color: gainsboro;
+  margin : 30px 0px 10px 10px ;
+  padding: 0px 10px ;
+
+}
+
+.header-content {
+  margin-top: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.header-divison {
+  margin-top: 5px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.message{
+  color: dimgrey;
+  font-size: 16px;
+}
